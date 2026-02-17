@@ -75,7 +75,7 @@ DHCP Snooping: Configurar todos los puertos de acceso como "Untrusted" (No confi
 Source Guard: Verificar que la IP de origen coincida con la asignada por el DHCP legítimo.
 
 ---
-*Descargo de Responsabilidad: Este software fue creado únicamente con fines académicos para la asignatura de Ciberseguridad del ITLA. El autor no se hace responsable del mal uso de esta herramienta.*
+*Descargo de Responsabilidad: Este software fue creado únicamente con fines académicos. El autor no se hace responsable del mal uso de esta herramienta.*
 
 **Autor:** Cristopher De Los Santos  
 **Matrícula:** 2024-1414
