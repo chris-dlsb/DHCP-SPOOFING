@@ -6,7 +6,9 @@
 
 ## 📋 Descripción Técnica
 Este repositorio contiene una Prueba de Concepto (PoC) desarrollada en Python utilizando el framework **Scapy**. 
-**Objetivo:** Desplegar un servidor DHCP no autorizado para realizar un ataque de Man-in-the-Middle (MitM). La herramienta responde a las peticiones DHCP DISCOVER más rápido que el servidor legítimo, asignando al cliente una puerta de enlace (Gateway) controlada por el atacante (10.14.14.6) y servidores DNS maliciosos.
+
+## Objetivo del Script:
+** Desplegar un servidor DHCP no autorizado para realizar un ataque de Man-in-the-Middle (MitM). La herramienta responde a las peticiones DHCP DISCOVER más rápido que el servidor legítimo, asignando al cliente una puerta de enlace (Gateway) controlada por el atacante (10.14.14.6) y servidores DNS maliciosos.
 
 El script demuestra vulnerabilidades críticas en la Capa 2 (Enlace de Datos) del modelo OSI, permitiendo auditar la seguridad de la infraestructura de red conmutada.
 
