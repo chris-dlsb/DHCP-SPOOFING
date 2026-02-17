@@ -59,6 +59,7 @@ Para ejecutar esta herramienta se requiere:
 <img width="556" height="130" alt="image" src="https://github.com/user-attachments/assets/f9bccbb3-5d8a-4c58-bd8c-50c811fdd261" />
 
 
+
 **2. Impacto en la Víctima:**
 <img width="380" height="331" alt="image" src="https://github.com/user-attachments/assets/18e06d97-a953-44f6-8b39-b028a5744d6f" />
 
