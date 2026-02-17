@@ -61,8 +61,7 @@ Para ejecutar esta herramienta se requiere:
 ##--------------------------------------------------------------
 
 **2. Impacto en la Víctima:**
-<img width="724" height="322" alt="image" src="https://github.com/user-attachments/assets/cb551814-7e0e-4090-b63c-5f743849dd84" />
-
+<img width="723" height="185" alt="image" src="https://github.com/user-attachments/assets/23e2acc5-b4d1-4063-88f7-e8fda7441ae5" />
 
 
 ## 🛡️ Medidas de Mitigación
